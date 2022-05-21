@@ -161,7 +161,7 @@ nav .fa {
         z-index: 2;
         transition: 1s;
         box-sizing: border-box;
-        overflow: hidden;
+        display: none;
     }
 
     nav .fa {
@@ -176,6 +176,7 @@ nav .fa {
         padding: 30px;
         box-sizing: border-box;
         overflow: hidden;
+        
 
     }
 
