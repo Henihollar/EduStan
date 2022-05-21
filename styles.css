@@ -121,13 +121,10 @@ nav .fa {
 }
 
 /* For Media Query */
-@media(max-width: 700px) {
-    .text-box{
-       
-    }
+@media(max-width: 700px) {  
     .text-box h1 {
         font-size: 25px;
-        margin-top: 100px;
+        margin-top: 120px;
     }
 
     .text-box p {
