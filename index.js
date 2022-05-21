@@ -9,5 +9,6 @@ firstClick.addEventListener("click", function(){
 
 secondClick.addEventListener("click", function(){
     navLinks.style.right = "-200px"
+    navLinks.style.display = "none";
 })
 

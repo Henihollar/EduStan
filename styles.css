@@ -122,12 +122,15 @@ nav .fa {
 
 /* For Media Query */
 @media(max-width: 700px) {
+    .text-box{
+        margin-top: 40px;
+    }
     .text-box h1 {
         font-size: 25px;
     }
 
     .text-box p {
-        font-size: 15px;
+        font-size: 12px;
     }
 
     .text-box button {
