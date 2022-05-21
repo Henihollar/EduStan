@@ -101,6 +101,7 @@ nav {
 }
 
 .text-box button {
+    margin-top: 20px;
     padding: 10px 15px;
     background: transparent;
     color: #fff;
