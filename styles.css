@@ -4,8 +4,11 @@
     font-family: sans-serif, "Ubuntu";
     overflow-x: hidden;
 }
-@media(max-width: 700px){
-    *{overflow-x: hidden;}
+
+@media(max-width: 700px) {
+    * {
+        overflow-x: hidden;
+    }
 }
 
 /* Navbar Section */
@@ -121,7 +124,7 @@ nav .fa {
 }
 
 /* For Media Query */
-@media(max-width: 700px) {  
+@media(max-width: 700px) {
     .text-box h1 {
         font-size: 25px;
         margin-top: 120px;
@@ -178,7 +181,7 @@ nav .fa {
         padding: 30px;
         box-sizing: border-box;
         overflow: hidden;
-        
+
 
     }
 
